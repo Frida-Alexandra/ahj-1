@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "1. Рабочее окружение"
 
-![CI](https://github.com/<Frida-Alexandra>/<ahj-1>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Frida-Alexandra/ahj-1/actions/workflows/web.yml/badge.svg)
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
